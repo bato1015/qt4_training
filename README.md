@@ -1,0 +1,2 @@
+# qt4_training
+QtDesigner読解のためサンプルプログラムを作成する
